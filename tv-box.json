@@ -1,5 +1,5 @@
 {
-    "spider": "./du.jar",
+    "spider": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/du.jar",
     "warningText": "【毒盒影视】提示: 📢接口软件永远免费  📢长期维护切勿贩卖",
     "lives": [
       {
@@ -31,7 +31,7 @@
         "key": "采集之王",
         "name": "🐲采王┃采集",
         "type": 3,
-        "api": "./js/drpy2.min.js",
+        "api": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "order_num": 142,
@@ -608,50 +608,50 @@
         "key": "南瓜影视2",
         "name": "🎄南瓜┃影视2",
         "type": 3,
-        "api": "./js/drpy2.min.js",
-        "ext": "./js/南瓜影视.js"
+        "api": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/drpy2.min.js",
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/南瓜影视.js"
       },
       {
         "key": "腾",
         "name": "🎄腾腾┃影视",
         "type": 3,
-        "api": "./js/drpy2.min.js",
-        "ext": "./js/腾讯视频.js"
+        "api": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/drpy2.min.js",
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/腾讯视频.js"
       },
       {
         "key": "优",
         "name": "🎄优优┃影视",
         "type": 3,
-        "api": "./js/drpy2.min.js",
-        "ext": "./js/优酷视频.js"
+        "api": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/drpy2.min.js",
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/优酷视频.js"
       },
       {
         "key": "芒",
         "name": "🎄芒芒┃影视",
         "type": 3,
-        "api": "./js/drpy2.min.js",
-        "ext": "./js/芒果视频.js"
+        "api": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/drpy2.min.js",
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/芒果视频.js"
       },
       {
         "key": "狗",
         "name": "🎄狗狗┃影视",
         "type": 3,
-        "api": "./js/drpy2.min.js",
-        "ext": "./js/搜狗视频.js"
+        "api": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/drpy2.min.js",
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/搜狗视频.js"
       },
       {
         "key": "爱",
         "name": "🎄爱爱┃影视",
         "type": 3,
-        "api": "./js/drpy2.min.js",
-        "ext": "./js/爱奇艺.js"
+        "api": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/drpy2.min.js",
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/爱奇艺.js"
       },
       {
         "key": "三",
         "name": "🎄三六┃影视",
         "type": 3,
-        "api": "./js/drpy2.min.js",
-        "ext": "./js/三六零.js"
+        "api": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/drpy2.min.js",
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/js/三六零.js"
       },
       {
         "key": "️玩偶哥",
@@ -816,7 +816,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/学堂教育.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/学堂教育.json"
       },
       {
         "key": "少儿",
@@ -826,7 +826,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/少儿合集.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/少儿合集.json"
       },
       {
         "key": "小学课堂",
@@ -836,7 +836,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/小学课堂.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/小学课堂.json"
       },
       {
         "key": "初中课堂",
@@ -846,7 +846,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/初中课堂.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/初中课堂.json"
       },
       {
         "key": "高中课堂",
@@ -856,7 +856,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/高中课堂.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/高中课堂.json"
       },
       {
         "key": "小灯塔科学",
@@ -866,7 +866,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/小灯塔科学.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/小灯塔科学.json"
       },
       {
         "key": "小灯塔地理",
@@ -876,7 +876,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/小灯塔地理.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/小灯塔地理.json"
       },
       {
         "key": "小灯塔百科",
@@ -886,7 +886,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/小灯塔百科.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/小灯塔百科.json"
       },
       {
         "key": "小灯塔国学",
@@ -896,7 +896,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/小灯塔国学.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/小灯塔国学.json"
       },
       {
         "key": "儿童口才",
@@ -906,7 +906,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/儿童口才.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/儿童口才.json"
       },
       {
         "key": "儿童拼音",
@@ -916,7 +916,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/儿童拼音.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/儿童拼音.json"
       },
       {
         "key": "儿童识字",
@@ -926,7 +926,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/儿童识字.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/儿童识字.json"
       },
       {
         "key": "儿童思维",
@@ -936,7 +936,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/儿童思维.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/儿童思维.json"
       },
       {
         "key": "儿童英语",
@@ -946,7 +946,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/儿童英语.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/儿童英语.json"
       },
       {
         "key": "儿童硬笔",
@@ -956,7 +956,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/儿童硬笔.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/儿童硬笔.json"
       },
       {
         "key": "儿童编程",
@@ -966,7 +966,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/儿童编程.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/儿童编程.json"
       },
       {
         "key": "儿童武术",
@@ -976,7 +976,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/儿童武术.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/儿童武术.json"
       },
       {
         "key": "csp_BBB",
@@ -986,7 +986,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/哔哩套餐1.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/哔哩套餐1.json"
       },
       {
         "key": "Bili",
@@ -996,7 +996,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/哔哩套餐2.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/哔哩套餐2.json"
       },
       {
         "key": "软件",
@@ -1006,7 +1006,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/软件教程.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/软件教程.json"
       },
       {
         "key": "演唱会",
@@ -1016,7 +1016,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/演唱会.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/演唱会.json"
       },
       {
         "key": "戏曲",
@@ -1026,7 +1026,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/戏曲合集.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/戏曲合集.json"
       },
       {
         "key": "合集",
@@ -1036,7 +1036,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/合集.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/合集.json"
       },
       {
         "key": "MV",
@@ -1046,7 +1046,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/歌曲MV.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/歌曲MV.json"
       },
       {
         "key": "美食",
@@ -1056,7 +1056,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/美食.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/美食.json"
       },
       {
         "key": "球类",
@@ -1066,7 +1066,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/球类合集.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/球类合集.json"
       },
       {
         "key": "球星",
@@ -1076,7 +1076,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./Bilibili/球星合集.json"
+        "ext": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/Bilibili/球星合集.json"
       },
       {
         "key": "良品短剧",
@@ -1147,7 +1147,7 @@
         "searchable": 0,
         "filterable": 0,
         "changeable": 0,
-        "jar": "./du.jar;md5;244027cbc4b3cd016d8335d175688367",
+        "jar": "https://tv.youdu.fan:666/%E6%AF%92%E7%9B%92%E5%BD%B1%E8%A7%86/du.jar;md5;244027cbc4b3cd016d8335d175688367",
         "ext": {
           "token": "http://127.0.0.1:9978/file/TVBox/tok.txt",
           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
